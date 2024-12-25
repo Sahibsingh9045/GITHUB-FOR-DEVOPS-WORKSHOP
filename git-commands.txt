@@ -1,0 +1,28 @@
+ git init
+ python3 testing.py 
+  git add testing.py
+  git commit -m "first commit"
+  git config user.name "Karandeep Singh"
+  git config user.email "sahib86413.com"
+  git status 
+  git rm --cached testing.py 
+  git status
+  git add .
+  git commit -m "my first commit"
+  git status 
+  git rm testing.py 
+  ls
+  pwd
+ git restore 
+  git restore testing.py
+  clear4
+ clear
+ ls
+ git status
+ git restore testing.py
+ git restore --staged testing.py
+ ls
+ git status
+ git restore testing.py
+  ls
+  git status
